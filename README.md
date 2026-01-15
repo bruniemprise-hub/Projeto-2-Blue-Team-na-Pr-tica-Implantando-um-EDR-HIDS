@@ -20,14 +20,15 @@ Implantar e configurar um ambiente completo de monitoramento de segurança (EDR/
 ├── screenshots/ ← capturas de tela
 ├── relatorio-projeto2.tex ← relatório LaTeX
 ├── relatorio-projeto2.pdf ← relatório compilado
-└── config/
-└── 010-meu-fim-comandos.conf ← configuração customizada
+  └── config/
+  └── 010-meu-fim-comandos.conf ← configuração customizada
 
 ## Evidências geradas
-Alerta de integridade de arquivos (/etc)
-Alerta de criação de arquivo SUID
-Monitoramento de comandos who/w/last/ps
-Dashboard com agente 000 ativo
+- Alerta de integridade de arquivos (/etc)
+- Alerta de criação de arquivo SUID
+- Monitoramento de comandos who/w/last/ps
+- Dashboard com agente 000 ativo
+
 Autor: Bruno Borges Fagundes
 Pós-Graduação em Cibersegurança – Metropolitana
 Data: 2025
